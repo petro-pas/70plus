@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://petro-pas.github.io/70plus/sitemap.xml
